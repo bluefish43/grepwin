@@ -16,7 +16,7 @@ To install `grepw`, just [Download the latest release](https://github.com/bluefi
 
 The basic syntax for `grepw` is:
 
-grepw [options] PATTERN [FILE]
+grepw PATTERN [options] [FILE]
 
 
 - `options`: Optional flags that modify the behavior of the command.
