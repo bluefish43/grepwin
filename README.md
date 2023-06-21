@@ -8,6 +8,10 @@
 - **Invert match**: Add an option to invert the sense of matching, to select non-matching lines.
 - **File search**: Search a specified file or standard input for lines that match the given pattern.
 
+## Installation 💾
+
+To install `grepw`, just [Download the latest release](https://github.com/yourusername/grepw/releases) from GitHub, and then run the setup executable.
+
 ## Usage 💻
 
 The basic syntax for `grepw` is:
