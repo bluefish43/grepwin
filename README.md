@@ -10,7 +10,7 @@
 
 ## Installation 💾
 
-To install `grepw`, just [Download the latest release](https://github.com/yourusername/grepw/releases) from GitHub, and then run the setup executable.
+To install `grepw`, just [Download the latest release](https://github.com/bluefish43/grepw/releases) from GitHub, and then run the setup executable.
 
 ## Usage 💻
 
